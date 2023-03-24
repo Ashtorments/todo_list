@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+.body{
+    background-image: repeating-linear-gradient(90deg, rgba(56, 109, 137, 0.295), rgba(56, 155, 124, 0.216) 1px, transparent 1px, transparent 7px);
+    background-size: 5px;
+    background-color: rgba(49, 91, 91, 0.213);
+    }
